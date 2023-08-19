@@ -1,0 +1,3 @@
+Everything went according to plan
+Everything went according to plan
+The error was using magic numbers
